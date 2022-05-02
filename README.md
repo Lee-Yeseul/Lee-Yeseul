@@ -1,4 +1,4 @@
-### Hi! Nice to meet you 👋
+### Hi! I'm yeseul 👋
 
 <!--
 **Lee-Yeseul/Lee-Yeseul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
