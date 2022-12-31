@@ -7,27 +7,17 @@
 
 **Blog.** [https://velog.io/@ssulv3030](https://velog.io/@ssulv3030)
 
-<!-- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Yeseul)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Yeseul&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
+### ⚒️ Skills
 
-<!--
-**Lee-Yeseul/Lee-Yeseul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">  <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-html, css, javascript, python, react, node.js, express, git, mongoDB, 
-<img src="https://img.shields.io/badge/python-lightgrey?style=flat&logo=Python&logoColor=yellow"/>
---> 
+
+  <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white"><img alt="Recoil" src="https://img.shields.io/badge/-Recoil-75aadb?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAMAAABhq6zVAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAnFBMVEX////7+/u/v8DU1dXn5+c+QEJzdHb9/f38/Pz4+Ph3eHqoqarDxMW4ubq8vb51dni/wMDe3993eXrc3d3T09RvcHLd3d2pqquSk5Sen6B2d3nn5+i+v8B5enyoqKqGh4jOz8+ur7CDhIbl5eW0tbaJiov6+vrz8/N0dXfZ2dmio6Tt7e35+flwcXOmpqj+/v7o6OhBQ0XJysrc3NxQjO1xAAAAAWJLR0QAiAUdSAAAAAd0SU1FB+YHFwMoN5SBVPUAAABbSURBVAjXY2AAAkYmZgY4YGFlY4exOTi5uOESPLx8/AIcUI6gkLCIqBhMmbiEpJQ0lCMjKyevANOjqKSsoqoG5ahza2hqacOkdHT19PVhHANDDbilDBxGxmAaAEfHBbB7ddEZAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIyLTA3LTIzVDAzOjQwOjU1KzAwOjAwgs0+gwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMi0wNy0yM1QwMzo0MDo1NSswMDowMPOQhj8AAAAASUVORK5CYII=&logoColor=white&color=white" />
+
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 
 
 
