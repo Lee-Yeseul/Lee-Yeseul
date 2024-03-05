@@ -3,11 +3,12 @@
 
 ### Contact Me.
 
-**Email.** ssulv3030@gmail.com
+**Email** 
+- ssulv3030@gmail.com
 
-**Blog.** 
-[https://yeseul-blog.vercel.app/](https://yeseul-blog.vercel.app/)
-[https://velog.io/@ssulv3030](https://velog.io/@ssulv3030)
+**Blog** 
+- [https://yeseul-blog.vercel.app/](https://yeseul-blog.vercel.app/)
+- [https://velog.io/@ssulv3030](https://velog.io/@ssulv3030)
 
 ### ⚒️ Skills
 
