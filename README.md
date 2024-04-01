@@ -6,6 +6,9 @@
 **Email** 
 - ssulv3030@gmail.com
 
+**Portfolio**
+- [https://yeseul-portfolio.vercel.app/](https://yeseul-portfolio.vercel.app/)
+
 **Blog** 
 - [https://yeseul-blog.vercel.app/](https://yeseul-blog.vercel.app/)
 - [https://velog.io/@ssulv3030](https://velog.io/@ssulv3030)
