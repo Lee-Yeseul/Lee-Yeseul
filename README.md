@@ -1,26 +1,17 @@
- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=YESEUL%20LEE&fontSize=90)
-### Hi! I'm yeseul 👋 I'm a Front-end developer👩‍💻
+**프론트엔드 개발자** | UI/UX와 인터랙션에 관심이 많습니다.
 
-### Contact Me.
+<a href="mailto:ssulv3030@gmail.com">
+<img src="https://img.shields.io/badge/mail-ffffff?style=flat-square&logo=Gmail&logoColor=000000"/></a>
 
-**Email** 
-- ssulv3030@gmail.com
+### Work Experience
+- [에코마케팅](https://echomarketing.co.kr/) - 프론트엔드 개발 (2024.07 ~ )
+- [아우토크립트](https://autocrypt.co.kr/) - 프론트엔드 개발 (2023.4 ~ 2023.11)
+- [엠서클](https://www.mcircle.co.kr/) - 프론트엔드 개발 인턴 (2022.10 ~ 2023.03) 
 
-**Portfolio**
-- [https://yeseul-portfolio.vercel.app/](https://yeseul-portfolio.vercel.app/)
+### Experience
+- [테오콘](https://www.teoconf.com/) - 1회차 운영진
+- 테오의 스프린트 14기 - [나랑 벚꽃보러 가지 않을래?] 프론트엔드 개발(2023.02)
 
-**Blog** 
-- [https://velog.io/@ssulv3030](https://velog.io/@ssulv3030)
-
-### ⚒️ Skills
-
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">  <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-
-
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-
-
-
-
+### Education
+- 경희대학교 - 정보디스플레이학과 (2017.03 ~ 2022.02)
+- 엘리스 - AI 기반 풀스택 개발자 양성 교육(2022.01 ~ 2022.07)
